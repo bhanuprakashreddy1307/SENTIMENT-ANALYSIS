@@ -95,3 +95,6 @@ Sentiment analysis using NLP is a powerful technique for extracting opinions and
 By leveraging NLP techniques like tokenization, TF-IDF vectorization, and logistic regression, sentiment analysis can provide valuable insights for decision-making. However, challenges like context understanding, sarcasm detection, and domain adaptation still need improvements.
 
 With advancements in AI and deep learning, sentiment analysis continues to evolve, offering more precise and context-aware sentiment detection in real-world applications.
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/3a100f66-38e9-4e48-8471-fc4a51dd72b6)
